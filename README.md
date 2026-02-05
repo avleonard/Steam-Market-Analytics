@@ -1,6 +1,6 @@
 # Steam Data Analysis Projects
 
-This repository contains projects that analyze and extract insights from the Steam platform. Using historical sales data directly from Steam's API, these projects explore platform evolution, performance metrics, and pricing dynamics through statistical analysis and machine learning.
+This repository contains projects that extract trends from the Steam platform. Using historical sales data directly from Steam's API, these projects analyze platform evolution, performance metrics, and pricing dynamics through statistical analysis and machine learning.
 
 > **Technologies:** *Python, Pandas, Scikit-learn, Matplotlib, Seaborn*
 
