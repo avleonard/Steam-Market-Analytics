@@ -12,5 +12,3 @@ Using historical sales data directly from Steam's API, these projects analyze pl
 
 ### Project 3: Predicting Steam Game Prices
 - Using the best performing regression model (Linear, Ridge, Random Forest, Gradient Boosting), predict prices with reviews, ratings, discounts, and platform support data.
-
----
